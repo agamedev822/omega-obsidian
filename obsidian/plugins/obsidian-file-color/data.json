@@ -1,0 +1,102 @@
+{
+  "cascadeColors": false,
+  "colorBackground": false,
+  "palette": [
+    {
+      "id": "qSvWPBtRfivCQ5ui99ek-",
+      "name": "rosewater",
+      "value": "#f2d5cf"
+    },
+    {
+      "id": "A9ksnT1sw4ebHxnSBa5TM",
+      "name": "flamingo",
+      "value": "#eebebe"
+    },
+    {
+      "id": "yclJf7uYgdIj0QRP0Vkri",
+      "name": "pink",
+      "value": "#f4b8e4"
+    },
+    {
+      "id": "Pmg5m9BOKddEmMvvoKXVZ",
+      "name": "mauve",
+      "value": "#ca9ee6"
+    },
+    {
+      "id": "hBgZo85v9Kb7U-as1qfo0",
+      "name": "red",
+      "value": "#e78284"
+    },
+    {
+      "id": "yxnMUvLWGojw3Pgr7oev9",
+      "name": "maroon",
+      "value": "#ea999c"
+    },
+    {
+      "id": "O0I1z_fysv9RPIoY6ZPJr",
+      "name": "peach",
+      "value": "#ef9f76"
+    },
+    {
+      "id": "QbDM5uNBVvCGkDLA2V-Iv",
+      "name": "yellow",
+      "value": "#e5c890"
+    },
+    {
+      "id": "wJvTw4yU3Gak6VoRc0CVr",
+      "name": "green",
+      "value": "#a6d189"
+    },
+    {
+      "id": "lXDiNvx_-iduERS3nqIjg",
+      "name": "teal",
+      "value": "#81c8be"
+    },
+    {
+      "id": "SysK9s38AGdpvsryVujI_",
+      "name": "sky",
+      "value": "#99d1db"
+    },
+    {
+      "id": "H3iQHJjRpaKpwj-bkIxcb",
+      "name": "sapphire",
+      "value": "#85c1dc"
+    },
+    {
+      "id": "ny6m--mVYHYkqg4F7uxzn",
+      "name": "blue",
+      "value": "#8caaee"
+    },
+    {
+      "id": "VSbcFnShjumCr6Acf69sj",
+      "name": "lavander",
+      "value": "#babbf1"
+    }
+  ],
+  "fileColors": [
+    {
+      "path": "Excalidraw",
+      "color": "QbDM5uNBVvCGkDLA2V-Iv"
+    },
+    {
+      "path": "images",
+      "color": "ny6m--mVYHYkqg4F7uxzn"
+    },
+    {
+      "path": "info",
+      "color": "lXDiNvx_-iduERS3nqIjg"
+    },
+    {
+      "path": "TaskNotes",
+      "color": "hBgZo85v9Kb7U-as1qfo0"
+    },
+    {
+      "path": "the 3am mind",
+      "color": "Pmg5m9BOKddEmMvvoKXVZ"
+    },
+    {
+      "path": "the journal",
+      "color": "qSvWPBtRfivCQ5ui99ek-"
+    }
+  ]
+}
